@@ -1,0 +1,14 @@
+body {
+    max-width: 85ch;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1ch;
+    word-break: break-word;
+}
+
+hr {
+    border: none;
+    border-top: 1px dashed #9f9f9f;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
